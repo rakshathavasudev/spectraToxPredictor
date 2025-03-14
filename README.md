@@ -18,4 +18,8 @@ This project aims to process hyperspectral imaging data and predict mycotoxin le
 
    code with saved outputs in src/ImagoAI-task.ipynb
 
+   install dependencies listed in requirements.txt
+   pip install(dependency)
+ 
+
    
