@@ -6,7 +6,8 @@ This project aims to process hyperspectral imaging data and predict mycotoxin le
 
 - **/data/**: Contains raw and processed data files.             
   
-- **/src/**: Jupyter notebook for analysis, model building, and evaluation, Streamlit app (app.ipynb)   
+- **/src/**: Jupyter notebook for analysis, model building, and evaluation,
+- Streamlit app (app.py)   
   
 - **/model/**: trained model checkpoint.
   
